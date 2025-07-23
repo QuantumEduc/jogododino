@@ -1,7 +1,7 @@
 #gameArea{
     background-color: rgb(174, 232, 255);
     width: 1300px; /*largura*/
-    height: 300px; /*altura*/
+    height: 500px; /*altura*/
     border: 5px solid black;
     position: absolute;
     bottom: 10; /*distância do elemento até a borda*/
