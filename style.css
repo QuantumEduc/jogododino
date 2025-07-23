@@ -16,13 +16,6 @@
     right: 0; /*direita*/
 }
 
-#nuvem{
-width: 90px;  /*largura*/
-height: 50px; /*altura*/
-display: block;
-left: 50; /*esquerda*/
-}
-
 #dino{
 width: 150px;  /*largura*/
 height: 150px; /*altura*/
